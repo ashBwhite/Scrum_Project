@@ -1,2 +1,4 @@
 # Scrum_Project
-Agile Scrum methodology works from GBC
+winter 2020 - 2021
+Agile Scrum methodology and Project Management
+
